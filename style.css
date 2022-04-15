@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2&family=Comfortaa:wght@500&family=Exo+2:wght@200&family=Gentium+Book+Basic&family=Josefin+Sans:ital,wght@1,300&family=Lusitana&family=Montserrat:wght@200&family=Quicksand&family=Rajdhani:wght@300;400&family=Satisfy&family=Smooch+Sans&family=Titillium+Web:wght@200&family=Vollkorn&display=swap');
+
+
+#container{ 
+    position: absolute; 
+    padding:25px;
+    background-color:rgba(194,134,136,0.75);
+    border-radius: 15px;
+    border: 5px solid white;
+    top: 20%;
+    left:29%;
+}
+
+body {
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Smooch Sans', sans-serif;
+    color:white;
+    font-size: 60px;
+   
+
+}
+
+p{ 
+    text-align: center;
+}
+
